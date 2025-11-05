@@ -1,8 +1,8 @@
-# Hi there, I’m Ahsan   
+# Hi there, I am Ahsan   
 **MERN Stack Developer | AI & Web App Enthusiast**
 
 ##  About Me  
-I’m Ahsan, known on GitHub as [`@acroash1122`](https://github.com/acroash1122). I build web and AI-enabled applications that solve real problems.  
+I am Ahsan, known on GitHub as [`@acroash1122`](https://github.com/acroash1122). I build web and AI-enabled applications that solve real problems.  
 - Proficient with **React**, **Node.js**, **Express**, **MongoDB** and modern front-end tools.  
 - Currently deep-diving into **AI / LLM-based systems**, agentic RAG pipelines, and cloud infrastructure.  
 - Passionate about creating intuitive dashboards, and recently building a MERN stack Expense Tracker with AI-powered auto-categorization.  
@@ -10,7 +10,7 @@ I’m Ahsan, known on GitHub as [`@acroash1122`](https://github.com/acroash1122)
 
 ##  Skills  
 | Front-end | Back-end / DB | AI / Tools | DevOps & Others |
-|-----------|--------------|------------|----------------|
+
 | React, Redux, HTML5, CSS3, Tailwind | Node.js, Express, MongoDB, MySQL | Hugging Face Transformers, RAG systems, LLM integration | Git, Docker, CI/CD, Azure VM/AppService |
 
 ##  Featured Projects  
